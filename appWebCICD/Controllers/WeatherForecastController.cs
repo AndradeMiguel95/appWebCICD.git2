@@ -27,7 +27,7 @@ namespace appWebCICD.Controllers
         public string Get()
         {
             string texto;
-            texto = "Modificação na controller";
+            texto = "Modificação na controller e fazendo commit apenas local";
             return texto;
 
         }
